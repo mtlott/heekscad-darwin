@@ -1,0 +1,19 @@
+[submodule "submodules/libarea"]
+	path = submodules/libarea
+	url = https://github.com/mtlott/libarea.git
+	branch = master
+[submodule "submodules/heekscad"]
+	path = submodules/heekscad
+	url = https://github.com/mtlott/heekscad.git
+[submodule "submodules/heekscnc"]
+	path = submodules/heekscnc
+	url = https://github.com/mtlott/heekscnc.git
+[submodule "upstream/heekscad"]
+	path = upstream/heekscad
+	url = https://github.com/Heeks/heekscad.git
+[submodule "upstream/heekscnc"]
+	path = upstream/heekscnc
+	url = https://github.com/Heeks/heekscnc.git
+[submodule "upstream/libarea"]
+	path = upstream/libarea
+	url = https://github.com/Heeks/libarea.git
